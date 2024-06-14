@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Harsh Kumar! 👋</h1>
 
-- 🔭 I’m currently working on Web Development.
+- 🔭 I’m currently working on Artificial intelligence (AI) and machine learning (ML) Projects.
 - 🌱 I’m currently learning node.js and Bootstrap
 - 🤔 I’m looking for help with Open-Source Projects.
 - 💬 Ask me about programming and tech-related stuff.
