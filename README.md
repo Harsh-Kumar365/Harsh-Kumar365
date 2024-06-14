@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/harsh-kumar-96aa39259/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/anubhavg12">
+  <a href="https://linktr.ee/harshh12vg">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
