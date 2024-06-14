@@ -12,17 +12,14 @@
 ## Connect with me:
 
 <p>
-  <a href="https://goel-anubhav.github.io">
+  <a href="https://harsh-kumar365.github.io">
     <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=logoColor=white" />
   </a>
-  <a href="mailto:anubhavgoyal12062001@gmail.com">
+  <a href="mailto:harshkr.iec@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anubhav-goel-1206/">
+  <a href="https://www.linkedin.com/in/harsh-kumar-96aa39259/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/AnubhavG12">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linktr.ee/anubhavg12">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
