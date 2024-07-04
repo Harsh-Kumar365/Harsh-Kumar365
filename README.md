@@ -12,9 +12,7 @@
 ## Connect with me:
 
 <p>
-  <a href="https://harsh-kumar365.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=logoColor=white" />
-  </a>
+
   <a href="mailto:harshkr.iec@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
